@@ -15,11 +15,13 @@ Each image has one class among three classes (Horse, Dog, Cat)
 Each trace has one class among two classes (Bit = 0, Bit = 1)
 
 .. image:: /Photos/SVL/pt.png
+   :scale: 50
 
 Network Architecture
 ~~~~~~~~~~~~~~~~~~~~
 
 .. image:: /Photos/CNN_Layers/5.png
+   :scale: 50
 
 Why CNNs in SCA?
 ~~~~~~~~~~~~~~~~
@@ -34,9 +36,11 @@ How to measure CNN’s Performance
 	
 	* Accuracy %: Correct class prediction.
 .. image:: /Photos/Accu_And_Mean/accuracy.jpg
+   :scale: 50
 
 	* Rank Function: Correct key prediction.
 .. image:: /Photos/Accu_And_Mean/Rankings.jpeg
+   :scale: 50
 
 
 Datasets
