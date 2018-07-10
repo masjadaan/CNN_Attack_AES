@@ -10,6 +10,7 @@ Supervised Learning (Labeled Data)
 Each image has one class among three classes (Horse, Dog, Cat)
 
 .. image:: /Photos/SVL/horse.png
+   :scale: 50
 
 Each trace has one class among two classes (Bit = 0, Bit = 1)
 
